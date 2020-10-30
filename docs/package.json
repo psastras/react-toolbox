@@ -11,7 +11,7 @@
   "dependencies": {
     "babel-standalone": "^6.7.7",
     "classnames": "^2.2.5",
-    "codemirror": "^5.14.2",
+    "codemirror": "^5.58.2",
     "history": "^2.1.1",
     "react": "^15.5.0",
     "react-css-themr": "^1.2.0",
